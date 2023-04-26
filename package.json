@@ -3,6 +3,7 @@
   "displayName": "simple-clear-console",
   "description": "clear console log",
   "version": "0.0.1",
+	"publisher": "zhyao1684",
   "engines": {
     "vscode": "^1.77.0"
   },
